@@ -1,7 +1,7 @@
 {
   "name": "Vege",
   "short_name": "vege",
-  "start_url": "index.html",
+  "start_url": "./index.html",
   "icons": [
     {
       "src": "./web-app-manifest-192x192.png",
